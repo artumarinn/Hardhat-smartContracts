@@ -61,6 +61,4 @@ La configuración de estas API Keys en el archivo `.env` permite:
 - Verificación automatizada de contratos en exploradores de bloques.
 - Simulación de entornos de producción durante el desarrollo.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT, permitiendo su uso, modificación y distribución libre, fomentando la innovación y el aprendizaje en el ecosistema blockchain.
